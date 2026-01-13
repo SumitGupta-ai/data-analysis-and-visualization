@@ -45,7 +45,7 @@ The notebook generates various types of visualizations such as:
 ---
 ## Work On Dataset Name 
 ---
- **Flipcart dataset**
- **Netflix dataset**
-**Zomato dataset**
-**Police Dataset**
+ Flipcart dataset
+ Netflix dataset
+ Zomato dataset
+ Police Dataset
